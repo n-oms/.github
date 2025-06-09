@@ -1,6 +1,6 @@
 # N-OMS (Next Generation Office Management System)
 
-![N-OMS Logo](https://n-oms-users.s3.us-east-1.amazonaws.com/noms-website-assets/logo.png)
+![N-OMS Logo](https://www.n-oms.in/assets/logo-white-DxLP-obm.png)
 
 **Quality meets Affordability**
 
